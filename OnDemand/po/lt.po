@@ -1,0 +1,516 @@
+# Translations for enigma2-oe-alliance-plugins package.
+# Copyright (C) 2013 THE enigma2-oe-alliance-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-oe-alliance-plugins package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: On Demand - oe-alliance\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2017-07-05 21:17+0300\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis P.\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid ""
+"\n"
+"\n"
+"Genre: "
+msgstr ""
+"\n"
+"\n"
+"Žanras: "
+
+msgid "0 - 9"
+msgstr "0 - 9"
+
+msgid "3 Player"
+msgstr "3 grotuvas"
+
+msgid "A - C"
+msgstr "A - C"
+
+msgid "A to Z"
+msgstr "Nuo A iki Z"
+
+msgid "ABC News 24"
+msgstr "ABC 24 naujienos"
+
+msgid "ABC iView"
+msgstr "ABC iView"
+
+msgid "ABC iView - A to Z"
+msgstr "ABC iView - A > Z"
+
+msgid "ABC1"
+msgstr "ABC1"
+
+msgid "ABC2"
+msgstr "ABC2"
+
+msgid "ABC3"
+msgstr "ABC3"
+
+msgid "ABC4Kids"
+msgstr "ABC4Kids - vaikams"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Add to Favorites"
+msgstr "Įtraukti į mėgstamiausius"
+
+msgid "Added:"
+msgstr "Pridėta:"
+
+msgid "Added: "
+msgstr "Pridėta: "
+
+msgid "All Shows"
+msgstr "Visos laidos"
+
+msgid "Arts & Culture - Music"
+msgstr "Menas, kultūra muzikoje"
+
+msgid "Arts & Culture - People"
+msgstr "Meno, kultūros žmonės"
+
+msgid "Arts & Culture - Performance"
+msgstr "Vaidybinis menas ir kultūra"
+
+msgid "Arts & Culture - Reviews"
+msgstr "Meno, kultūros apžvalgos"
+
+msgid "Audio: "
+msgstr "Garsas: "
+
+msgid "Audio: Unknown"
+msgstr "Garsas: nežinomas"
+
+msgid "BBC Alba"
+msgstr "BBC Alba"
+
+msgid "BBC Four"
+msgstr "BBC keturi"
+
+msgid "BBC HD"
+msgstr "BBC HD"
+
+msgid "BBC News"
+msgstr "BBC naujienos"
+
+msgid "BBC Northern Ireland"
+msgstr "BBC Šiaurės Airija"
+
+msgid "BBC One"
+msgstr "BBC vienas"
+
+msgid "BBC Parliamanent"
+msgstr "BBC Parlamentas"
+
+msgid "BBC Scotland"
+msgstr "BBC Škotija"
+
+msgid "BBC Three"
+msgstr "BBC trys"
+
+msgid "BBC Two"
+msgstr "BBC du"
+
+msgid "BBC Wales"
+msgstr "BBC Velsas"
+
+msgid "Back"
+msgstr "Atgal"
+
+msgid "Bitrate: "
+msgstr "Sparta bitais: "
+
+msgid "Bitrate: Unknown"
+msgstr "Sparta bitais: nežinoma"
+
+msgid "CBBC"
+msgstr "CBBC"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Cbeebies"
+msgstr "Cbeebies"
+
+msgid "Childrens"
+msgstr "Vaikams"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Comedy"
+msgstr "Komedija"
+
+msgid "Comedy - Cult"
+msgstr "Kultinė komedija"
+
+msgid "Comedy - Satire"
+msgstr "Satyrinė komedija"
+
+msgid "Comedy - Sitcom"
+msgstr "\"Sitcom\" komedija"
+
+msgid "Comedy - Sketch"
+msgstr "Etiudinė komedija"
+
+msgid "D - F"
+msgstr "D - F"
+
+msgid "Delete from Favorites"
+msgstr "Pašalinti iš megstamiausių"
+
+msgid "Documentary - Biography"
+msgstr "Biografinė dokumentintika"
+
+msgid "Documentary - History"
+msgstr "Istorinė dokumentintika"
+
+msgid "Documentary - Nature"
+msgstr "Gamtos dokumentintika"
+
+msgid "Documentary - Real Life"
+msgstr "Realybės dokumentintika"
+
+msgid "Documentary - Science"
+msgstr "Mokslinė dokumentintika"
+
+msgid "Drama"
+msgstr "Drama"
+
+msgid "Drama - Crime"
+msgstr "Kriminalinė drama"
+
+msgid "Drama - Historical"
+msgstr "Istorinė drama"
+
+msgid "Drama - Period"
+msgstr "Realybės drama"
+
+msgid "Drama - Romance"
+msgstr "Romantinė drama"
+
+msgid "Drama - Sci-fi"
+msgstr "Mokslinė drama"
+
+msgid "Duration:"
+msgstr "Trukmė:"
+
+msgid "Duration: "
+msgstr "Trukmė: "
+
+msgid "Education"
+msgstr "Švietimas"
+
+msgid "Entertainment"
+msgstr "Pramogos"
+
+msgid "Episodes by Date"
+msgstr "Epizodai pagal datą"
+
+msgid "Episodes: "
+msgstr "Epizodai: "
+
+msgid "Exit"
+msgstr "Užverti"
+
+msgid "Factual"
+msgstr "Faktai"
+
+msgid "Favorites"
+msgstr "Mėgstamiausi"
+
+msgid "Featured Programs"
+msgstr "Teminės programos"
+
+msgid "G - J"
+msgstr "G - J"
+
+msgid "Going, Going..."
+msgstr "Vyksta..."
+
+msgid "HD"
+msgstr "HD"
+
+msgid "Health And Wellbeing"
+msgstr "Sveikatingumas"
+
+msgid "High"
+msgstr "Aukštas"
+
+msgid "ITV Player"
+msgstr "ITV grotuvas"
+
+msgid "Indigenous"
+msgstr "Vietinės žinios"
+
+msgid "K - M"
+msgstr "K - M"
+
+msgid "Last Chance"
+msgstr "Paskutinis šansas"
+
+msgid "Last Updated:"
+msgstr "Paskutinį kartą atnaujinta:"
+
+msgid "Latest Episodes"
+msgstr "Naujausi epizodai"
+
+msgid "Lifestyle - Games"
+msgstr "Žaidimai"
+
+msgid "Lifestyle - Reality"
+msgstr "Gyvenimo būdas - tikrovė"
+
+msgid "Low"
+msgstr "Mažas"
+
+msgid "Most Popular Episodes"
+msgstr "Populiariausi epizodai"
+
+msgid "Most Popular TV"
+msgstr "TV populiariausi"
+
+msgid "Most Talked About"
+msgstr "Daugiausiai apkalbėti"
+
+msgid "Movies"
+msgstr "Filmai"
+
+msgid "Music"
+msgstr "Muzika"
+
+msgid "N - P"
+msgstr "N - P"
+
+msgid "News"
+msgstr "Naujienos"
+
+msgid "News & Current Affairs"
+msgstr "Naujienos ir aktualijos"
+
+msgid "No items matching your search criteria were found"
+msgstr "Paieškos kriterijus atitinkančių elementų nerasta"
+
+msgid "No matching search items were found for "
+msgstr "Nerasta paieškos kriterijus atitinkančių elementų "
+
+msgid "Normal"
+msgstr "Normalus"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "OnDemand"
+msgstr "Pagal pareikalavimą"
+
+msgid "OnDemand Configuration"
+msgstr "Pagal pareikalavimą - nustatymas"
+
+msgid ""
+"Open Uitzending Gemist\n"
+"\n"
+"Based on Xtrend code"
+msgstr ""
+"Atverti Uitzending Gemist\n"
+"\n"
+"Pagal Xtrend kodą"
+
+msgid "Panel & Discussion"
+msgstr "Diskusijos"
+
+msgid "Preferred Stream Quality"
+msgstr "Pageidautina srauto kokybė"
+
+msgid "Primary DNS: To watch UK Streams outside the UK"
+msgstr "Pirminis DNS: žiūrėti JK transliacijoms už JK ribų"
+
+msgid "Q - T"
+msgstr "Q - T"
+
+msgid "RTE Player"
+msgstr "RTE grotuvas"
+
+msgid "RTE Player - A to Z"
+msgstr "RTE grotuvas - nuo A iki Z"
+
+msgid "RTE Player - Categories"
+msgstr "RTE grotuvas - kategorijos"
+
+msgid "RTE Player - Choose Date"
+msgstr "RTE grotuvas - pasirinkti datą"
+
+msgid "RTL Number of days back"
+msgstr "RTL prieš kiek dienų"
+
+msgid "RTL XL A-Z"
+msgstr "RTL XL A-Z"
+
+msgid "RTL XL Gemist"
+msgstr "RTL XL Gemist"
+
+msgid "Recently Added"
+msgstr "Neseniai pridėti"
+
+msgid "Recently Played: "
+msgstr "Neseniai klausyti: "
+
+msgid "Religion"
+msgstr "Religija"
+
+msgid "SHOUTcast Radio"
+msgstr "SHOUTcast radijas"
+
+msgid "Search"
+msgstr "Paieška"
+
+msgid "Search term"
+msgstr "Paieškos terminas"
+
+msgid "Secondary DNS: A backup DNS if the primary is down"
+msgstr "Antrinis DNS: atsarginis DNS, jei pirminis neveiks"
+
+msgid "Selection does not contain a stream!"
+msgstr "Pasirinkime nėra transliacijų!"
+
+msgid "Show Categories"
+msgstr "Rodyti kategorijas"
+
+msgid "Show Thumbnails"
+msgstr "Rodyti miniatiūras"
+
+msgid "Show in extensions"
+msgstr "Rodyti tarp plėtinių"
+
+msgid "Show in main menu"
+msgstr "Rodyti pagrindiniame meniu"
+
+msgid "Show in plugin browser"
+msgstr "Rodyti įskiepių naršyklėje"
+
+msgid "Shows A to Z"
+msgstr "Rūšiuoti A > Z"
+
+msgid "Signed"
+msgstr "Pasirašyta"
+
+msgid "Soaps"
+msgstr "Muilo operos"
+
+msgid "Sorry, No Stations Found!"
+msgstr "Stočių nerasta!"
+
+msgid "Sorry, unable to find playable stream!"
+msgstr "Atleiskkite, nepavyksta surasti tinkamos transliacijos!"
+
+msgid "Sport"
+msgstr "Sportas"
+
+msgid "Station Already Saved in Favorites!"
+msgstr "Stotis jau įtraukta į mėgstamiausias!"
+
+msgid "Station delete failed, please check the Debug logs!"
+msgstr "Stoties iš mėgstamiausių pašalinti nepavyko, skaitykite derinimo žurnalus!"
+
+msgid "Station deleted from Favorites!"
+msgstr "Stotis iš mėgstamiausių pašalinta!"
+
+msgid "Station save failed, please check the Debug logs!"
+msgstr "Stoties išsaugoti nepavyko, skaitykite derinimo žurnalus!"
+
+msgid "Station saved to Favorites!"
+msgstr "Stotis įtraukta į mėgstamiausias!"
+
+msgid "Straight Off The Telly"
+msgstr "Paskutinės naujienos"
+
+msgid "TV Highlights"
+msgstr "TV svarbiausi"
+
+msgid "Time: "
+msgstr "Laikas: "
+
+msgid "Today"
+msgstr "Šiandien"
+
+msgid "Trailers"
+msgstr "Anonsai"
+
+msgid "Tunein Radio"
+msgstr "Tunein radijas"
+
+msgid "U - Z"
+msgstr "U - Z"
+
+msgid "UG A-Z"
+msgstr "UG A-Z"
+
+msgid "UG Popular"
+msgstr "UG populiariausi"
+
+msgid "UG Recently added"
+msgstr "UG vėliausiai įtraukti"
+
+msgid "UG Search"
+msgstr "UG paieška"
+
+msgid "Very Low"
+msgstr "Labai mažas"
+
+msgid "Wait please while gathering data..."
+msgstr "Palaukite, kol įkeliami duomenys ..."
+
+msgid "Watch uitzending gemist"
+msgstr "Žiūrėti Uitzending Gemist"
+
+msgid "iRadio Player"
+msgstr "iRadio grotuvas"
+
+msgid "iRadio Player - Main Menu"
+msgstr "iRadio grotuvas - Pagrindinis meniu"
+
+msgid "iRadio Player - SHOUTcast Genres"
+msgstr "iRadio grotuvas - SHOUTcast žanrai"
+
+msgid "iRadio Player - SHOUTcast Sub Genres for "
+msgstr "iRadio grotuvas - SHOUTcast subžanrai "
+
+msgid "iRadio Player - Tunein Main Menu"
+msgstr "iRadio grotuvas - Tunein pagrindinis meniu"
+
+msgid "iRadio: Display Favorite Default Thumbnails"
+msgstr "iRadio: rodyti mėgstamiausių numatytąsias miniatiūras"
+
+msgid "iRadio: Display Favorite Thumbnails"
+msgstr "iRadio: rodyti mėgstamiausių miniatiūras"
+
+msgid "iRadio: Display SHOUTcast Default Thumbnails"
+msgstr "iRadio: rodyti SHOUTcast numatytąsias miniatiūras"
+
+msgid "iRadio: Display SHOUTcast Thumbnails"
+msgstr "iRadio: rodyti SHOUTcast miniatiūras"
+
+msgid "iRadio: Display Tunein Default Thumbnails"
+msgstr "iRadio: rodyti Tunein numatytąsias miniatiūras"
+
+msgid "iRadio: Display Tunein Thumbnails"
+msgstr "iRadio: rodyti Tunein miniatiūras"
+
+msgid "iRadio: Display WMA Streams"
+msgstr "iRadio: rodyti WMA srautus"
+
+msgid "iView Exclusives"
+msgstr "iView ekskliuzyvai"

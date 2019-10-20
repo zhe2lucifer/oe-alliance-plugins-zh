@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: remote channel stream converter Persian Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2016-05-07 13:07+0200\n"
+"Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
+"Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+msgid "Adress:"
+msgstr "آدرس :"
+
+msgid "Checking for alternatives"
+msgstr ""
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "Connection to remote IP ok"
+msgstr "اتصال به آی پی راه دور - وضعیت خوب"
+
+msgid "Convert remote channel list for streaming"
+msgstr "تبدیل لیست کانال های راه دور به منظور به اجرا درآوردن"
+
+msgid "Could not connect to remote IP"
+msgstr "عدم اتصال به آی پی راه دور"
+
+msgid "Download"
+msgstr "دریافت کردن"
+
+msgid "Download from remote failed"
+msgstr "دریافت خدمات از راه دور ناموفق بود"
+
+msgid "Downloading remote services"
+msgstr "در حال دریافت خدمات از راه دور"
+
+msgid "Enter address"
+msgstr "آدرس را وارد نمایید "
+
+msgid "Enter password"
+msgstr "رمز ورود را وارد نمایید"
+
+msgid "Enter username"
+msgstr "نام کاربری را وارد نمایید "
+
+msgid "Exit"
+msgstr "خارج شدن"
+
+msgid "FTP Server Editor"
+msgstr "ویرایشگر سرور اف تی پی"
+
+#, python-format
+msgid "FTP reading alternatives %d of %d"
+msgstr ""
+
+#, python-format
+msgid "FTP reading bouquets %d of %d"
+msgstr ""
+
+msgid "FTPport:"
+msgstr "FTP پورت"
+
+msgid "IP:"
+msgstr ""
+
+msgid "Invert"
+msgstr "معکوس کردن"
+
+msgid "Keyboard"
+msgstr "صفحه کلید"
+
+msgid "Make your selection"
+msgstr "انتخاب خود را ایجاد کنید"
+
+msgid "No bouquets selected"
+msgstr "هیچ دسته ای انتخاب نشده است"
+
+msgid "OK"
+msgstr "تایید کردن"
+
+msgid "Passive:"
+msgstr ""
+
+msgid "Password:"
+msgstr "روز ورود :"
+
+msgid "Remote channel stream converter"
+msgstr "مبدل برای کانالهای در حال پخش از راه دور"
+
+msgid "Select a remote server IP first"
+msgstr "انتخاب آی پی سرور راه دور برای بار اول"
+
+msgid "Select bouquets to convert"
+msgstr "دسته مورد نظر را منظور تبدیل کردن انتخاب نمایید "
+
+msgid "Set server IP"
+msgstr "تنظیم آی پی سرور"
+
+msgid "Telnetport:"
+msgstr "Telnet پورت "
+
+msgid "Testing remote connection"
+msgstr "تست سرور راه دور"
+
+msgid "Use IP"
+msgstr "استفاده از آی پی "
+
+msgid "Use address"
+msgstr "استفاده از آدرس"
+
+msgid "Username:"
+msgstr "نام کاربری :"
+
+msgid "remote of"
+msgstr ""

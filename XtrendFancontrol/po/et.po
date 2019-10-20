@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: rimas\n"
+"Language-Team: \n"
+"Language: et_EE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid " ver. 3.2"
+msgstr " ver. 3.2"
+
+msgid "All"
+msgstr "Kõik"
+
+msgid "Cancel"
+msgstr "Tühista"
+
+msgid "End time"
+msgstr "Lõpuaeg"
+
+msgid "Fan - Auto"
+msgstr "Vent - autom."
+
+msgid "Fan - Off"
+msgstr "Vent - väljas"
+
+#, fuzzy
+msgid "Fan - Off in standby"
+msgstr "Vent - väljas"
+
+msgid "Fan - On"
+msgstr "Vent - sees"
+
+msgid "Fan Control"
+msgstr "Jahutus"
+
+msgid "Fan Setup"
+msgstr "Jahutus"
+
+msgid "Fan mode"
+msgstr "Ventilaatori olek"
+
+msgid "Fan setup:"
+msgstr "Jahutus:"
+
+msgid "HDD Sleeping"
+msgstr "HDD puhkel"
+
+msgid "HDD Temperature"
+msgstr "HDD temperatuur"
+
+msgid ""
+"Harddisk standby after - no standby\n"
+"You may not use this mode!"
+msgstr ""
+"HDD ooteseisundisse pärast - ooteseisundita\n"
+"Seda režiimi ei saa kasutada!"
+
+msgid "Harddisk temperature"
+msgstr "Kõvaketta temperatuur :"
+
+msgid "Harddisks:"
+msgstr "Kõvakettad:"
+
+msgid "Initial fan speed"
+msgstr "Ventilaatori algkiirus"
+
+msgid "No harddisk with temperature sensor found!"
+msgstr "Temperatuuri sensoriga ketast ei leitud!"
+
+msgid "No system temperature sensor found!"
+msgstr "Temperatuuri sensorit ei leitud!"
+
+msgid "None"
+msgstr "Pole"
+
+msgid "Off"
+msgstr "Väljas"
+
+msgid "On"
+msgstr "Sees"
+
+msgid "Power status"
+msgstr "Toide: "
+
+msgid "Save"
+msgstr "Salvesta"
+
+msgid "Select internal HDD device"
+msgstr "Vali sisene HDD"
+
+msgid "Show Temp"
+msgstr "Kuva temp."
+
+msgid "Show temp. HDD to extensions menu"
+msgstr "Kuva HDD temp. laienduste menüüs"
+
+msgid "Start time"
+msgstr "Algusaeg"
+
+msgid ""
+"Start time OFF mode equal End time OFF mode\n"
+"You may not use this time settings!"
+msgstr ""
+"\"Algusaeg - väljas\" sama kui \"Lõpuaeg - väljas\"\n"
+"Sellist aja seadistust ei saa kasutada!"
+
+msgid "Switch Fan mode on time setting"
+msgstr "Vent tööle aja järgi"
+
+msgid "Switch OFF mode on HDD sleep"
+msgstr "Kõvaketta ooteseisundis vent väljas"
+
+msgid "Switch ON mode on HDD max.temp. (0 - disable)"
+msgstr "HDD maks.temp. saavutamisel vent sisse (0 - keelatud)"
+
+msgid "Switch ON on system temp"
+msgstr "Vent sisse temperatuuril"
+
+msgid "System temperature"
+msgstr "Süsteemi temperatuur : "
+
+msgid "Watch HDD state"
+msgstr "HDD oleku seire"
+
+msgid "Watch system temp"
+msgstr "Temperatuuri seire"
+
+msgid ""
+"You may not use this mode!\n"
+"Not found an internal hard drive!"
+msgstr ""
+"Seda režiimi ei saa kasutada!\n"
+"Sisest ketast ei leitud"
+
+msgid "n.a."
+msgstr "kättesaamatu"
+
+msgid "switch Fan On/Off"
+msgstr "Vent sisse/välja"

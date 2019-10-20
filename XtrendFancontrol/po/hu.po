@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fancontrol v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2018-04-19 13:39+0200\n"
+"Last-Translator: Alec <alex1vagyok@gmail.com>\n"
+"Language-Team: alec <alex1vagyok@gmail.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid " ver. 3.2"
+msgstr " verzió 3.2"
+
+msgid "All"
+msgstr "Összes"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "End time"
+msgstr "Befejezési időpont"
+
+msgid "Fan - Auto"
+msgstr "Automatikus működési mód"
+
+msgid "Fan - Off"
+msgstr "Kikapcsolt állapot"
+
+msgid "Fan - Off in standby"
+msgstr "Készenléti állapotban kikapcsolva"
+
+msgid "Fan - On"
+msgstr "Állandó működés"
+
+msgid "Fan Control"
+msgstr "Ventilátor vezérlés beállításai"
+
+msgid "Fan Setup"
+msgstr "Ventilátor beállítás"
+
+msgid "Fan mode"
+msgstr "A ventilátor üzemmódja"
+
+msgid "Fan setup:"
+msgstr "Ventilátor beállítás:"
+
+msgid "HDD Sleeping"
+msgstr "Merevlemez alvó üzemmód"
+
+msgid "HDD Temperature"
+msgstr "Merevlemez hőmérséklet"
+
+msgid ""
+"Harddisk standby after - no standby\n"
+"You may not use this mode!"
+msgstr ""
+"Merevlemez a készenléti üzemmód után!\n"
+"Ne használja ezt az üzemmódot!"
+
+msgid "Harddisk temperature"
+msgstr "Merevlemez hőmérséklet"
+
+msgid "Harddisks:"
+msgstr "Merevlemezek:"
+
+msgid "Initial fan speed"
+msgstr "A ventilátor sebessége"
+
+msgid "No harddisk with temperature sensor found!"
+msgstr "Nem található merevlemez hőmérséklet jelző szenzorral!"
+
+msgid "No system temperature sensor found!"
+msgstr "Nem található rendszer hőmérséklet jelző szenzor!"
+
+msgid "None"
+msgstr "Nem"
+
+msgid "Off"
+msgstr "Ki"
+
+msgid "On"
+msgstr "Be"
+
+msgid "Power status"
+msgstr "Energiaállapot"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Select internal HDD device"
+msgstr "Válassza ki a belső merevlemez meghajtót"
+
+msgid "Show Temp"
+msgstr "Hőmérséklet megjelenítése"
+
+msgid "Show temp. HDD to extensions menu"
+msgstr "A merevlemez hőmérséklet megjelenítése a kiegészítő menűben"
+
+msgid "Start time"
+msgstr "Kezdési időpont"
+
+msgid ""
+"Start time OFF mode equal End time OFF mode\n"
+"You may not use this time settings!"
+msgstr ""
+"A kezdési idő kikapcsolási módja megegyezik a befejezési idő kikapcsolási módjával\n"
+"Ne használja ezt a beállítást!"
+
+msgid "Switch Fan mode on time setting"
+msgstr "A ventilátor üzemmódja az időpontok között"
+
+msgid "Switch OFF mode on HDD sleep"
+msgstr "Merevlemez alvó üzemmódjában legyen kikapcsolva"
+
+msgid "Switch ON mode on HDD max.temp. (0 - disable)"
+msgstr "Merevlemez ennél a hőmérsékleténél legyen bekapcsolva (0 - letiltva)"
+
+msgid "Switch ON on system temp"
+msgstr "Ventilátor legyen bekapcsolva az adott Rendszer hőmérsékletnél"
+
+msgid "System temperature"
+msgstr "Rendszer hőmérséklete"
+
+msgid "Watch HDD state"
+msgstr "Merevlemez állapot figyelése"
+
+msgid "Watch system temp"
+msgstr "Rendszer hőmérséklet állapotának mutatása"
+
+msgid ""
+"You may not use this mode!\n"
+"Not found an internal hard drive!"
+msgstr ""
+"Nem használható ez az üzemmód!\n"
+"Nem található belső merevlemez egység!"
+
+msgid "n.a."
+msgstr "-"
+
+msgid "switch Fan On/Off"
+msgstr "ventilátor Ki/Be kapcsolása"

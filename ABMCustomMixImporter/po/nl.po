@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 3GModemManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
+"Language-Team: openATV\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "1 minute"
+msgstr "1 minuut"
+
+msgid "10 minutes"
+msgstr "10 minuten"
+
+msgid "2 minutes"
+msgstr "2 minuten"
+
+msgid "20 minutes"
+msgstr "20 minuten"
+
+msgid "3 minutes"
+msgstr "3 minuten"
+
+msgid "30 minutes"
+msgstr "30 minuten"
+
+msgid "5 minutes"
+msgstr "5 minuten"
+
+msgid "ABM CustomMix"
+msgstr "ABM CustomMix"
+
+msgid "ABM CustomMix Importer"
+msgstr "ABM CustomMix Importer"
+
+msgid "Allows you automatically fetch the CustomMix file."
+msgstr "Maakt het mogelijk het Custommix-bestand automatisch binnen te halen."
+
+msgid "Channels importer"
+msgstr "Zenders importeren"
+
+msgid "Delete file"
+msgstr "Verwijder bestand"
+
+msgid "Enable autofetch"
+msgstr "Schakel autofetch in"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "Fetch file"
+msgstr "Bestand ophalen"
+
+msgid "Fetching from github"
+msgstr "Ophalen van github"
+
+msgid "File fetched and saved OK"
+msgstr "Bestand opgehaald en correct opgeslagen"
+
+msgid "Import"
+msgstr "Importeer"
+
+msgid "Lead time"
+msgstr ""
+
+msgid "Main menu"
+msgstr "Hoofdmenu"
+
+msgid "Number of minutes prior to the ABM scan that the CustomMix file should be fetched"
+msgstr "Aantal minuten voor de ABM-scan dat het Custommix-bestand binnengehaald moet worden."
+
+msgid "Really close without saving settings?"
+msgstr "Echt afsluiten zonder opslaan?"
+
+msgid "Save setup"
+msgstr "Sla instellingen op"
+
+msgid "Saving CustomMix file"
+msgstr "Slaan CustomMix-bestand op"
+
+msgid "Select the CustomMix you want to import"
+msgstr "Selecteer het CustomMix-bestand dat u wilt importeren"
+
+msgid "Service searching"
+msgstr "Zenders zoeken"
+
+msgid "Setup"
+msgstr "Instellingen"
+
+msgid "Starting importer..."
+msgstr "Start importeren..."

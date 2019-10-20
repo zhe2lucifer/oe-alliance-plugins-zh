@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 3GModemManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: litvcom\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid " "
+msgstr " "
+
+msgid "3G / 4G Modem Manager"
+msgstr "Диспетчер 3G/4G модема"
+
+msgid "APN :"
+msgstr "APN:"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Auto connect"
+msgstr "Автосоединение"
+
+msgid "Auto connect:"
+msgstr "Автосоединение:"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Disable"
+msgstr "Отключить"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "IP : "
+msgstr "IP:"
+
+msgid "IP : 0.0.0.0"
+msgstr "IP : 0.0.0.0"
+
+msgid "Manual"
+msgstr "Вручную"
+
+msgid "Name :"
+msgstr "Имя:"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "PIN :"
+msgstr "PIN-код:"
+
+msgid "Password :"
+msgstr "Пароль:"
+
+msgid "Phone :"
+msgstr "Номер телефона:"
+
+msgid "Region :"
+msgstr "Регион:"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "User :"
+msgstr "Пользователь:"

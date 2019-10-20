@@ -1,0 +1,363 @@
+# Ukrainian translations for enigma2-oe-alliance-plugins package.
+# Copyright (C) 2012 THE enigma2-oe-alliance-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-oe-alliance-plugins package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: litvcom\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.11\n"
+
+msgid " "
+msgstr ""
+
+msgid ""
+"!!(Empty)\n"
+"Please, Input to the"
+msgstr ""
+"!!(Порожньо)\n"
+"Будь ласка, введіть"
+
+msgid "* RC Help"
+msgstr "* RC Допомога"
+
+msgid "* Start YouTube TV"
+msgstr "* Запустити YouTube TV"
+
+msgid "About"
+msgstr "Інформація"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Backspace Key"
+msgstr "Клавіша Backspace"
+
+msgid "Bookmark"
+msgstr "Закладки"
+
+msgid "Bookmark Title"
+msgstr "Назва закладки"
+
+msgid "Bookmark URL"
+msgstr "URL закладки"
+
+msgid "Browser Help"
+msgstr "Довідка"
+
+msgid "Browser Start/Stop"
+msgstr "Браузер Старт/Стоп"
+
+msgid "BrowserMain"
+msgstr "Меню браузера"
+
+msgid ""
+"Can't open selected bookmark.\n"
+"   - URL data is empty!!"
+msgstr ""
+"Не вдається відкрити обрану закладку.\n"
+"   - порожні дані URL!!"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Category Name"
+msgstr "Назва категорії"
+
+msgid "Current Page"
+msgstr "Поточна сторінка"
+
+msgid "Current page is already exist."
+msgstr "Поточна сторінка вже існує"
+
+msgid "Currentpage(Bookmark)"
+msgstr "Поточна сторінка (Закладки)"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Direct Input"
+msgstr "Пряме введення"
+
+msgid "Direct Input(Bookmark)"
+msgstr "Пряме введення (Закладки)"
+
+msgid "Direct Input(Category)"
+msgstr "Пряме введення (Категорія)"
+
+msgid "Do not show YouTube TV Starter again"
+msgstr "Більше не показувати стартове вікно"
+
+msgid "Do you want to delete the bookmark?"
+msgstr "Ви бажаєте видалити закладку?"
+
+msgid "Do you want to delete the category and the bookmarks?"
+msgstr "Ви бажаєте видалити категорію та закладки?"
+
+msgid "Do you want to set selected url to the Startpage?"
+msgstr "Ви бажаєте встановити обрану URL-адресу на стартову?"
+
+msgid "Down Key"
+msgstr "Стрілка вниз"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Enter Key"
+msgstr "Клавіша Введення"
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "Exit the Browser."
+msgstr "Вихід з браузеру"
+
+msgid "Exit the YouTube TV"
+msgstr "Вихід з YouTube TV"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Global"
+msgstr "Загальне"
+
+msgid "Go to next page."
+msgstr "До наступної сторінки"
+
+msgid "Go to previous page."
+msgstr "До попередньої сторінки"
+
+msgid "HbbTV Applications"
+msgstr "HbbTV додатки"
+
+msgid ""
+"HbbTV Browser was not running.\n"
+"Please running browser before start HbbTV Application."
+msgstr ""
+"Браузер HbbTV не запущено.\n"
+"Будь ласка, запустіть браузер перед запуском HbbTV додатків"
+
+msgid "HbbTV Plugin"
+msgstr "Плагін HbbTV"
+
+msgid "Help"
+msgstr "Допомога"
+
+msgid "Invalid "
+msgstr "Недійсний "
+
+msgid ""
+"Invalid URL!!(Empty)\n"
+"Please, Input to the URL."
+msgstr ""
+"Невірна URL-адреса!! (Порожньо)\n"
+"Будь ласка, введіть URL-адресу."
+
+msgid "Invalid URL. Please check again!!"
+msgstr "Невірна URL-адреса. Будь ласка, перевірте ще раз!!"
+
+msgid "It will move the mouse pointer down."
+msgstr "Переміщує курсор миші вниз"
+
+msgid "It will move the mouse pointer left."
+msgstr "Переміщує курсор миші вліво"
+
+msgid "It will move the mouse pointer right."
+msgstr "Переміщує курсор миші вправо"
+
+msgid "It will move the mouse pointer up."
+msgstr "Переміщує курсор миші вгору"
+
+msgid "Keyboard"
+msgstr "Клавіатура"
+
+msgid "Keyboard Layout"
+msgstr "Розкладка клавіатури"
+
+msgid "Left Key"
+msgstr "Стрілка вліво"
+
+msgid "Left Mouse Button"
+msgstr "Ліва кнопка миші"
+
+msgid "Mouse"
+msgstr "Миша"
+
+msgid "Move down"
+msgstr "Перемістити вниз"
+
+msgid "Move left"
+msgstr "Перемістити вліво"
+
+msgid "Move right"
+msgstr "Перемістити вправо"
+
+msgid "Move up"
+msgstr "Перемістити вгору"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "No detected HbbTV applications."
+msgstr "HbbTV додатків не виявлено"
+
+msgid "Open Startpage"
+msgstr "Початкова сторінка"
+
+msgid "Open URL"
+msgstr "Відкрити URL-адресу"
+
+msgid ""
+"Opera Browser was not running.\n"
+"Please running browser using [File]>[Start/Stop] menu."
+msgstr ""
+"Браузер Opera не запущено.\n"
+"Будь ласка, запустіть браузер за допомогою меню [Файл]>[Старт/Стоп]"
+
+msgid "Opera Web Browser"
+msgstr "Веб-браузер Opera"
+
+msgid "Opera Web Browser Plugin v2.0"
+msgstr "Веб-браузер Opera v2.0"
+
+msgid "PageDown Key"
+msgstr "Клавіша PageDown"
+
+msgid "PageUp Key"
+msgstr "Клавіша PageUp"
+
+msgid "Pause current video"
+msgstr "Пауза поточного відео"
+
+msgid "Play current video"
+msgstr "Відтворити поточне відео"
+
+msgid "Play ther selected the video"
+msgstr "Відтворити обране відео"
+
+msgid "Please choose an HbbTV application."
+msgstr "Будь ласка, оберіть HbbTV додаток"
+
+msgid "Please choose one."
+msgstr "Будь ласка, оберіть"
+
+msgid "Please choose."
+msgstr "Будь ласка, оберіть"
+
+msgid "Please enter URL here"
+msgstr "Будь ласка, введіть URL"
+
+msgid "Position Setup"
+msgstr "Налаштування позиції"
+
+msgid "Preference"
+msgstr "Параметри"
+
+msgid "Really close without saving settings?"
+msgstr "Дійсно закрити без збереження налаштувань?"
+
+msgid "Return"
+msgstr "Назад"
+
+msgid "Right Key"
+msgstr "Стрілка вправо"
+
+msgid "Right Mouse Button"
+msgstr "Права кнопка миші"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Search a video"
+msgstr "Пошук відео"
+
+msgid "Set as Startpage"
+msgstr "Зробити стартовою"
+
+msgid "Show the Menu window."
+msgstr "Показати меню"
+
+msgid "Show the Virtual keyboard window."
+msgstr "Показати віртуальну клавіатуру"
+
+msgid "Skip backward 10 sec"
+msgstr "Перемотування назад, 10 сек"
+
+msgid "Skip forward 10 sec"
+msgstr "Перемотування вперед, 10 сек"
+
+msgid "Start"
+msgstr "Запустити"
+
+msgid "Start Page"
+msgstr "Початкова сторінка"
+
+msgid "Start YouTube TV"
+msgstr "Запустити YouTube TV"
+
+msgid "Start/Stop"
+msgstr "Старт/Стоп"
+
+msgid "Startpage"
+msgstr "Початкова"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "Stop current video"
+msgstr "Зупинка поточного відео"
+
+msgid "Switch to keyboard/mouse mode."
+msgstr "Переключення режимів клавіатура/миша"
+
+msgid "Title"
+msgstr "Назва"
+
+msgid "Tools"
+msgstr "Інструменти"
+
+msgid "Up Key"
+msgstr "Стрілка вгору"
+
+msgid "Url"
+msgstr "Адреса"
+
+msgid "YouTube TV"
+msgstr ""
+
+msgid "YouTube TV Settings"
+msgstr "Налаштування YouTube TV"
+
+msgid "YouTube TV URL"
+msgstr "YouTube TV URL-адреса"
+
+msgid "YouTube TV is a new way to watch YouTube videos"
+msgstr "YouTube TV - новий спосіб переглядати відео на YouTube"
+
+msgid "height"
+msgstr "Висота"
+
+msgid "left"
+msgstr "Вліво"
+
+msgid "start opera web browser"
+msgstr "Запустити веб-браузер"
+
+msgid "top"
+msgstr "Вгору"
+
+msgid "width"
+msgstr "Ширина"

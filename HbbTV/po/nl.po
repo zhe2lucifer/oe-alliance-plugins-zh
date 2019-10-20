@@ -1,0 +1,365 @@
+# Dutch translations for enigma2-oe-alliance-plugins package.
+# Copyright (C) 2012 THE enigma2-oe-alliance-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-oe-alliance-plugins package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2018-07-31 07:44+0200\n"
+"Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
+"Language-Team: Andy Blackburn, Rob van der Does\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid " "
+msgstr " "
+
+msgid ""
+"!!(Empty)\n"
+"Please, Input to the"
+msgstr ""
+"!!(Leeg)\n"
+"Geef in naar"
+
+msgid "* RC Help"
+msgstr "* AB Help"
+
+msgid "* Start YouTube TV"
+msgstr "* Start YouTube TV"
+
+msgid "About"
+msgstr "About"
+
+msgid "Add"
+msgstr "Voeg toe"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Backspace Key"
+msgstr "Backspace toets"
+
+msgid "Bookmark"
+msgstr "Bladwijzer"
+
+msgid "Bookmark Title"
+msgstr "Bladwijzer titel"
+
+msgid "Bookmark URL"
+msgstr "Bladwijzer URL"
+
+msgid "Browser Help"
+msgstr "Browser help"
+
+msgid "Browser Start/Stop"
+msgstr "Browser start/stop"
+
+msgid "BrowserMain"
+msgstr "Browser "
+
+msgid ""
+"Can't open selected bookmark.\n"
+"   - URL data is empty!!"
+msgstr ""
+"Kan geselecteerde bladwijzer niet openen.\n"
+"   - URL is leeg!!"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Category Name"
+msgstr "Categorie naam"
+
+msgid "Current Page"
+msgstr "Huidige pagina"
+
+msgid "Current page is already exist."
+msgstr "Huidige pagina bestaat al."
+
+msgid "Currentpage(Bookmark)"
+msgstr "Huidige pagina (bladwijzer)"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Direct Input"
+msgstr "Directe invoer"
+
+msgid "Direct Input(Bookmark)"
+msgstr "Direkte invoer (bladwijzer)"
+
+msgid "Direct Input(Category)"
+msgstr "Direkte invoer (categorie)"
+
+msgid "Do not show YouTube TV Starter again"
+msgstr "Toon YouTube TV Starter niet meer"
+
+msgid "Do you want to delete the bookmark?"
+msgstr "Wilt u deze bladwijzer verwijderen?"
+
+msgid "Do you want to delete the category and the bookmarks?"
+msgstr "Wilt u de categorie en de bladwijzers verwijderen?"
+
+msgid "Do you want to set selected url to the Startpage?"
+msgstr "Wilt u de geselecteerde URL als startpagina gebruiken?"
+
+msgid "Down Key"
+msgstr "Toets naar beneden"
+
+msgid "Edit"
+msgstr "Pas aan"
+
+msgid "Enter Key"
+msgstr "Enter toets"
+
+msgid "Exit"
+msgstr "Sluit af"
+
+msgid "Exit the Browser."
+msgstr "Sluit browser af."
+
+msgid "Exit the YouTube TV"
+msgstr "Verlaat the YouTube TV"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "Global"
+msgstr "Globaal"
+
+msgid "Go to next page."
+msgstr "Ga naar de volgende pagina."
+
+msgid "Go to previous page."
+msgstr "Ga naar de vorige pagina."
+
+msgid "HbbTV Applications"
+msgstr "HbbTV applicaties"
+
+msgid ""
+"HbbTV Browser was not running.\n"
+"Please running browser before start HbbTV Application."
+msgstr ""
+"HbbTV Browser was niet actief.\n"
+"Start de browser alvorens een HbbTV applicatie te starten."
+
+msgid "HbbTV Plugin"
+msgstr "HbbTV Plugin"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Invalid "
+msgstr "Ongeldig"
+
+msgid ""
+"Invalid URL!!(Empty)\n"
+"Please, Input to the URL."
+msgstr ""
+"Ongeldige URL!!(Leeg)\n"
+"Geef de URL in."
+
+msgid "Invalid URL. Please check again!!"
+msgstr "Ongeldige URL!!"
+
+msgid "It will move the mouse pointer down."
+msgstr "Beweegt de muisaanwijzer naar beneden."
+
+msgid "It will move the mouse pointer left."
+msgstr "Beweegt de muisaanwijzer naar links."
+
+msgid "It will move the mouse pointer right."
+msgstr "Beweegt de muisaanwijzer naar rechts."
+
+msgid "It will move the mouse pointer up."
+msgstr "Beweegt de muisaanwijzer naar boven."
+
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+msgid "Keyboard Layout"
+msgstr "Toetsenbord indeling"
+
+msgid "Left Key"
+msgstr "Toets naar links"
+
+msgid "Left Mouse Button"
+msgstr "Linker muistoets"
+
+msgid "Mouse"
+msgstr "Muis"
+
+msgid "Move down"
+msgstr "Verplaats omlaag"
+
+msgid "Move left"
+msgstr "Verplaats naar links"
+
+msgid "Move right"
+msgstr "Verplaats naar rechts"
+
+msgid "Move up"
+msgstr "Verplaats omhoog"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "No detected HbbTV applications."
+msgstr "Geen HbbTV applicaties gedetecteerd."
+
+msgid "Open Startpage"
+msgstr "Open startpagina"
+
+msgid "Open URL"
+msgstr "Open URL"
+
+msgid ""
+"Opera Browser was not running.\n"
+"Please running browser using [File]>[Start/Stop] menu."
+msgstr ""
+"Opera Browser was niet aktief.\n"
+"Start de browser met [File]>[Start/Stop] menu."
+
+msgid "Opera Web Browser"
+msgstr "Opera Web Browser"
+
+msgid "Opera Web Browser Plugin v2.0"
+msgstr "Opera Web Browser Plugin v2.0"
+
+msgid "PageDown Key"
+msgstr "Toets pagina naar beneden"
+
+msgid "PageUp Key"
+msgstr "Toets pagina naar boven"
+
+msgid "Pause current video"
+msgstr "Pauzeer huidige video"
+
+msgid "Play current video"
+msgstr "Spel huidige video"
+
+msgid "Play ther selected the video"
+msgstr "Speel de geselecteerde video's"
+
+msgid "Please choose an HbbTV application."
+msgstr "Kies een HbbTV applicatie."
+
+msgid "Please choose one."
+msgstr "Kies er één."
+
+msgid "Please choose."
+msgstr "Kies."
+
+msgid "Please enter URL here"
+msgstr "Geef URL hier in"
+
+msgid "Position Setup"
+msgstr "Positie instellingen"
+
+msgid "Preference"
+msgstr "Voorkeur"
+
+msgid "Really close without saving settings?"
+msgstr "Echt afsluiten zonder op te slaan?"
+
+msgid "Return"
+msgstr "Terug"
+
+msgid "Right Key"
+msgstr "Toets naar rechts"
+
+msgid "Right Mouse Button"
+msgstr "Rechter muistoets"
+
+msgid "Save"
+msgstr "Sla op"
+
+msgid "Search a video"
+msgstr "Zoek een video"
+
+msgid "Set as Startpage"
+msgstr "Stel in als startpagina"
+
+msgid "Show the Menu window."
+msgstr "Toon menuvenster"
+
+msgid "Show the Virtual keyboard window."
+msgstr "Toon virtuele toetsenbord"
+
+msgid "Skip backward 10 sec"
+msgstr "Spring 10 sec achteruit"
+
+msgid "Skip forward 10 sec"
+msgstr "Spring 10 sec vooruit"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start Page"
+msgstr "Startpagina"
+
+msgid "Start YouTube TV"
+msgstr "Start YouTube TV"
+
+msgid "Start/Stop"
+msgstr "Start/Stop"
+
+msgid "Startpage"
+msgstr "Startpagina"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Stop current video"
+msgstr "Stop huidige video"
+
+msgid "Switch to keyboard/mouse mode."
+msgstr "Schakel tussen toetsenbord en muis modus"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Tools"
+msgstr "Gereedschap"
+
+msgid "Up Key"
+msgstr "Toets naar boven"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "YouTube TV"
+msgstr "YouTube TV"
+
+msgid "YouTube TV Settings"
+msgstr "YouTube TV instellingen"
+
+msgid "YouTube TV URL"
+msgstr "YouTube TV URL"
+
+msgid "YouTube TV is a new way to watch YouTube videos"
+msgstr "YouTube TV is een nieuwe manier om YouTube video's te bekijen."
+
+msgid "height"
+msgstr "hoogte"
+
+msgid "left"
+msgstr "links"
+
+msgid "start opera web browser"
+msgstr "start opera web browser"
+
+msgid "top"
+msgstr "boven"
+
+msgid "width"
+msgstr "breedte"

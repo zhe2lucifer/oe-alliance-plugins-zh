@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DLNABrowser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: litvcom\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid " "
+msgstr " "
+
+msgid "/"
+msgstr "/"
+
+msgid "10"
+msgstr "10"
+
+msgid "15"
+msgstr "15"
+
+msgid "20"
+msgstr "20"
+
+msgid "5"
+msgstr "5"
+
+msgid "Add all"
+msgstr "Добавить все"
+
+msgid "DLNA/uPnP Browser"
+msgstr "DLNA/UPnP браузер"
+
+msgid "DeviceList Refresh Interval"
+msgstr "Интервал обновления устройств"
+
+msgid "Enable Autostart for DLNA Browser"
+msgstr "Включить автозапуск для DLNA-браузера"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Please wait, Loading image."
+msgstr "Подождите, идет загрузка изображения."
+
+msgid "Reload Device"
+msgstr "Перезагрузить устройство"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Setting"
+msgstr "Настройка"
+
+msgid "Show Device"
+msgstr "Показать устройства"
+
+msgid "Slideshow Interval"
+msgstr "Интервал слайд-шоу"
+
+msgid "Start"
+msgstr "Начать"
+
+msgid "Stop playing this movie?"
+msgstr "Остановить воспроизведение?"
+
+msgid "This is dlna/upnp client using djmount."
+msgstr ""
+
+msgid "Top"
+msgstr "Топ"
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Yes"
+msgstr "Да"

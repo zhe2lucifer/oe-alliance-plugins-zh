@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: litvcom\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "3D Surround"
+msgstr "Об'ємний звук"
+
+msgid "3D Surround Speaker Position"
+msgstr "Положення динаміків об'ємного звуку"
+
+msgid "AVL (Automatic Volume Leveler)"
+msgstr "Автоматичне регулювання гучності"
+
+msgid "Audio Effect Setup"
+msgstr "Налаштування звукового ефекту"
+
+msgid "Audio Effect Setup is not supported."
+msgstr "Налаштування звукового ефекту не підтримується."
+
+msgid "AudioEffect"
+msgstr "Звуковий ефект"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "Effect"
+msgstr "Ефект"
+
+msgid "Off"
+msgstr "Вимк."
+
+msgid "On"
+msgstr "Увімкн."
+
+msgid "Really close without saving settings?"
+msgstr "Дійсно закрити без збереження налаштувань?"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "none"
+msgstr "немає"
+
+msgid "sets the audio effetcs"
+msgstr "Встановити звуковий ефект"

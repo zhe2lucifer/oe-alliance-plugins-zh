@@ -1,0 +1,151 @@
+# Nederlands translations for Enigma2.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ViX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2018-07-31 11:02+0200\n"
+"Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
+"Language-Team: Andy Blackburn, Rob van der Does\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid " ver. 3.2"
+msgstr " ver. 3.2"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "End time"
+msgstr "Eindtijd"
+
+msgid "Fan - Auto"
+msgstr "ventilator auto"
+
+msgid "Fan - Off"
+msgstr "ventilator uit"
+
+msgid "Fan - Off in standby"
+msgstr "ventilator uit in stand-by"
+
+msgid "Fan - On"
+msgstr "ventilator aan"
+
+msgid "Fan Control"
+msgstr "Fan Control"
+
+msgid "Fan Setup"
+msgstr "ventilatorinstellingen"
+
+msgid "Fan mode"
+msgstr "ventilatormode"
+
+msgid "Fan setup:"
+msgstr "ventilatorinstellingen:"
+
+msgid "HDD Sleeping"
+msgstr "HDD slaapt"
+
+msgid "HDD Temperature"
+msgstr "HDD temperatuur"
+
+msgid ""
+"Harddisk standby after - no standby\n"
+"You may not use this mode!"
+msgstr ""
+"HDD standby na - geen standby\n"
+"U kunt deze mode niet gebruiken!"
+
+msgid "Harddisk temperature"
+msgstr "Harde schijf temperatuur"
+
+msgid "Harddisks:"
+msgstr "HDD's:"
+
+msgid "Initial fan speed"
+msgstr "Initiële ventilatorsnelheid"
+
+msgid "No harddisk with temperature sensor found!"
+msgstr "Geen HDD met temperatuursensor gevonden!"
+
+msgid "No system temperature sensor found!"
+msgstr "Geen systeemtemperatuursensor gevonden!"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "On"
+msgstr "Aan"
+
+msgid "Power status"
+msgstr "Netstroomstatus"
+
+msgid "Save"
+msgstr "Sla op"
+
+msgid "Select internal HDD device"
+msgstr "Kies interne HDD"
+
+msgid "Show Temp"
+msgstr "Toon temperatuur"
+
+msgid "Show temp. HDD to extensions menu"
+msgstr "Toon HDD temperatuur in extensies"
+
+msgid "Start time"
+msgstr "Starttijd"
+
+msgid ""
+"Start time OFF mode equal End time OFF mode\n"
+"You may not use this time settings!"
+msgstr ""
+"Starttijd UIT is gelijk aan eindtijd UIT\n"
+"U kunt deze tijdinstelling niet gebruiken!"
+
+msgid "Switch Fan mode on time setting"
+msgstr "Wissel ventilator-mode per tijdsinstelling"
+
+msgid "Switch OFF mode on HDD sleep"
+msgstr "Deactiveer mode als HDD slaapt"
+
+msgid "Switch ON mode on HDD max.temp. (0 - disable)"
+msgstr "Activeer HDD max.temp. (0 - disable)"
+
+msgid "Switch ON on system temp"
+msgstr "Inschakel systeemtemperatuur"
+
+msgid "System temperature"
+msgstr "Systeemtemperatuur"
+
+msgid "Watch HDD state"
+msgstr "Controleer HDD status"
+
+msgid "Watch system temp"
+msgstr "Bewaak systeemtemperatuur"
+
+msgid ""
+"You may not use this mode!\n"
+"Not found an internal hard drive!"
+msgstr ""
+"U kunt deze modus niet gebruiken!\n"
+"Geen interne schijf gevonden!"
+
+msgid "n.a."
+msgstr "n.v.t."
+
+msgid "switch Fan On/Off"
+msgstr "schakel ventilator Aan/Uit"

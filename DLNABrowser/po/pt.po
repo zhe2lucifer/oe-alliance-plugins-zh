@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DLNABrowser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: nunigaia\n"
+"Language-Team: BH Team\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid " "
+msgstr " "
+
+msgid "/"
+msgstr "/"
+
+msgid "10"
+msgstr "10"
+
+msgid "15"
+msgstr "15"
+
+msgid "20"
+msgstr "20"
+
+msgid "5"
+msgstr "5"
+
+msgid "Add all"
+msgstr "Adicionar todos"
+
+msgid "DLNA/uPnP Browser"
+msgstr "Explorador DLNA/uPnP"
+
+msgid "DeviceList Refresh Interval"
+msgstr "Intervalo de atualização da Lista de Dispositivos"
+
+msgid "Enable Autostart for DLNA Browser"
+msgstr "Ativar AutoIniciar para navegador DLNA"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Please wait, Loading image."
+msgstr "Por favor aguarde, a carregar imagem."
+
+msgid "Reload Device"
+msgstr "Recarregar"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Setting"
+msgstr "Definição"
+
+msgid "Show Device"
+msgstr "Mostrar o dispositivo"
+
+msgid "Slideshow Interval"
+msgstr "Intervalo do slideshow"
+
+msgid "Start"
+msgstr "Iniciar"
+
+msgid "Stop playing this movie?"
+msgstr "Parar a reprodução deste filme?"
+
+msgid "This is dlna/upnp client using djmount."
+msgstr ""
+
+msgid "Top"
+msgstr "Topo"
+
+msgid "Up"
+msgstr "Cima"
+
+msgid "Yes"
+msgstr "Sim"

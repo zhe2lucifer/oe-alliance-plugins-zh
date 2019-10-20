@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DLNAServer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: litvcom\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "    - Log Directory"
+msgstr "    - Каталог журналу"
+
+msgid "    - Log Level"
+msgstr "    - Рівень журналу"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Enable Autostart for DLNA Server"
+msgstr "Включити автозапуск для DLNA-сервера"
+
+msgid "Enable Logging"
+msgstr "Включити ведення журналу"
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "Music Directory"
+msgstr "Каталог Музика"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Picture Directory"
+msgstr "Каталог Фото"
+
+msgid "Reset"
+msgstr "Скидання"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Server Name"
+msgstr "Ім'я сервера"
+
+msgid "Start"
+msgstr "Старт"
+
+msgid "Video Directory"
+msgstr "Каталог Відео"
+
+msgid "debug"
+msgstr "Відладка"
+
+msgid "error"
+msgstr "Помилка"
+
+msgid "off"
+msgstr "вимк"
+
+msgid "warn"
+msgstr "Попередження"

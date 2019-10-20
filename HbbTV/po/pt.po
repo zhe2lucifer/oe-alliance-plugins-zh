@@ -1,0 +1,366 @@
+# Portuguese Translation for HbbTV enigma 2 plugin
+# Copyright (C) 2013 THE enigma2-oe-alliance-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-oe-alliance-plugins package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2016-11-13 22:48+0000\n"
+"Last-Translator: nunigaia\n"
+"Language-Team: BH Team\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid " "
+msgstr " "
+
+msgid ""
+"!!(Empty)\n"
+"Please, Input to the"
+msgstr ""
+"!!(Vazio)\n"
+"Por favor, entre em "
+
+msgid "* RC Help"
+msgstr "* RC Ajuda"
+
+msgid "* Start YouTube TV"
+msgstr "* Iniciar YouTube TV"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Backspace Key"
+msgstr "Tecla Backspace"
+
+msgid "Bookmark"
+msgstr "Marcador"
+
+msgid "Bookmark Title"
+msgstr "Título do Marcador"
+
+msgid "Bookmark URL"
+msgstr "Marcador do URL"
+
+msgid "Browser Help"
+msgstr "Explorador da Ajuda"
+
+msgid "Browser Start/Stop"
+msgstr "Explorador Iniciar/Parar"
+
+msgid "BrowserMain"
+msgstr "Explorador Principal"
+
+msgid ""
+"Can't open selected bookmark.\n"
+"   - URL data is empty!!"
+msgstr ""
+"Não pode abrir o marcador selecionado.\n"
+"   - URL informação vazia!!"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Category Name"
+msgstr "Nome da Categoria:"
+
+msgid "Current Page"
+msgstr "Página Atual"
+
+msgid "Current page is already exist."
+msgstr "A Página atual já existe."
+
+msgid "Currentpage(Bookmark)"
+msgstr "Página Atual (Marcador)"
+
+msgid "Delete"
+msgstr "Apagar"
+
+msgid "Direct Input"
+msgstr "Entrada Direta"
+
+msgid "Direct Input(Bookmark)"
+msgstr "Entrada Direta (Marcador)"
+
+msgid "Direct Input(Category)"
+msgstr "Entrada Direta (Categoria)"
+
+msgid "Do not show YouTube TV Starter again"
+msgstr "Não mostrar YouTube TV Starter  outra vez"
+
+msgid "Do you want to delete the bookmark?"
+msgstr "Deseja apagar o marcador?"
+
+msgid "Do you want to delete the category and the bookmarks?"
+msgstr "Deseja apagar a categoria e os marcadores?"
+
+msgid "Do you want to set selected url to the Startpage?"
+msgstr "Quer definir o URL selecionado na Página Inicial?"
+
+msgid "Down Key"
+msgstr "Down Key"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Enter Key"
+msgstr "Indroduza a Chave"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "Exit the Browser."
+msgstr "Saída do navegador."
+
+msgid "Exit the YouTube TV"
+msgstr "Sair do YouTube TV"
+
+msgid "File"
+msgstr "Ficheiro"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Go to next page."
+msgstr "Ir para a página seguinte."
+
+msgid "Go to previous page."
+msgstr "Ir para a página anterior."
+
+msgid "HbbTV Applications"
+msgstr "Aplicações HbbTV"
+
+msgid ""
+"HbbTV Browser was not running.\n"
+"Please running browser before start HbbTV Application."
+msgstr ""
+"O explorador HbbTV não está em execução.\n"
+"Por favor, execute o explorador antes de iniciar a Aplicação HbbTV."
+
+msgid "HbbTV Plugin"
+msgstr "Plugin HbbTV"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Invalid "
+msgstr "Inválido"
+
+msgid ""
+"Invalid URL!!(Empty)\n"
+"Please, Input to the URL."
+msgstr ""
+"URL Inválido!!(Vazio)\n"
+"Por favor, Introduza o URL."
+
+msgid "Invalid URL. Please check again!!"
+msgstr "URL Inválido. Por favor verifique-o!!"
+
+msgid "It will move the mouse pointer down."
+msgstr "Irá mover o ponteiro do rato para baixo."
+
+msgid "It will move the mouse pointer left."
+msgstr "Irá mover o ponteiro do rato para a esquerda."
+
+msgid "It will move the mouse pointer right."
+msgstr "Irá mover o ponteiro do rato para a direita."
+
+msgid "It will move the mouse pointer up."
+msgstr "Irá mover o ponteiro do rato para cima."
+
+msgid "Keyboard"
+msgstr "Teclado"
+
+msgid "Keyboard Layout"
+msgstr "Disposição do Teclado"
+
+msgid "Left Key"
+msgstr "Tecla esquerda"
+
+msgid "Left Mouse Button"
+msgstr "Tecla esquerda do rato"
+
+msgid "Mouse"
+msgstr "Rato"
+
+msgid "Move down"
+msgstr "Mover para baixo"
+
+msgid "Move left"
+msgstr "Mover para esquerda"
+
+msgid "Move right"
+msgstr "Mover para direita"
+
+msgid "Move up"
+msgstr "Mover para cima"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "No detected HbbTV applications."
+msgstr "Aplicações HbbTV não detetadas."
+
+msgid "Open Startpage"
+msgstr "Abrir Página inicial"
+
+msgid "Open URL"
+msgstr "Abrir URL"
+
+msgid ""
+"Opera Browser was not running.\n"
+"Please running browser using [File]>[Start/Stop] menu."
+msgstr ""
+"O navegador Opera não está em execução.\n"
+"Por favor, execute o navegador usando o menu [Arquivo]> [Iniciar / Parar]."
+
+msgid "Opera Web Browser"
+msgstr "Navegador Opera"
+
+msgid "Opera Web Browser Plugin v2.0"
+msgstr "Opera Web Browser Plugin V2.0"
+
+msgid "PageDown Key"
+msgstr "PageDown Key"
+
+msgid "PageUp Key"
+msgstr "PageUp Key"
+
+msgid "Pause current video"
+msgstr "Pausar o vídeo atual"
+
+msgid "Play current video"
+msgstr "Reproduz o vídeo atual"
+
+msgid "Play ther selected the video"
+msgstr "Reproduzir o vídeo selecionado"
+
+msgid "Please choose an HbbTV application."
+msgstr "Por favor escolha uma aplicação HbbTV."
+
+msgid "Please choose one."
+msgstr "Por favor escolha uma."
+
+msgid "Please choose."
+msgstr "Por favor escolha."
+
+msgid "Please enter URL here"
+msgstr "Por favor, Introduza o URL aqui"
+
+msgid "Position Setup"
+msgstr "Definição da Posição"
+
+msgid "Preference"
+msgstr "Preferência"
+
+msgid "Really close without saving settings?"
+msgstr "Deseja fechar sem Gravar as definições?"
+
+msgid "Return"
+msgstr "Voltar"
+
+msgid "Right Key"
+msgstr "Tecla direita"
+
+msgid "Right Mouse Button"
+msgstr "Tecla direita do rato"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Search a video"
+msgstr "Procurar um Vídeo"
+
+msgid "Set as Startpage"
+msgstr "Definir como página inicial"
+
+msgid "Show the Menu window."
+msgstr "Mostrar a janela do Menu."
+
+msgid "Show the Virtual keyboard window."
+msgstr "Mostrar a janela do Teclado virtual."
+
+msgid "Skip backward 10 sec"
+msgstr "Retroceder 10 segundos"
+
+msgid "Skip forward 10 sec"
+msgstr "Avançar 10 segundos"
+
+msgid "Start"
+msgstr "Iniciar"
+
+msgid "Start Page"
+msgstr "Página Inicial"
+
+msgid "Start YouTube TV"
+msgstr "Iniciar YouTube TV"
+
+msgid "Start/Stop"
+msgstr "Iniciar/Parar"
+
+msgid "Startpage"
+msgstr "Página inicial"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Stop current video"
+msgstr "Parar o vídeo atual"
+
+msgid "Switch to keyboard/mouse mode."
+msgstr "Mudar para teclado/modo de rato,"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Tools"
+msgstr "Ferramentas"
+
+msgid "Up Key"
+msgstr "Up Key"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "YouTube TV"
+msgstr "YouTube TV"
+
+msgid "YouTube TV Settings"
+msgstr "Definições do YouTube TV"
+
+msgid "YouTube TV URL"
+msgstr "YouTube TV URL"
+
+msgid "YouTube TV is a new way to watch YouTube videos"
+msgstr "YouTube TV é uma nova maneira de assistir a vídeos do YouTube"
+
+msgid "height"
+msgstr "altura"
+
+msgid "left"
+msgstr "left"
+
+msgid "start opera web browser"
+msgstr "iniciar o navegador Opera"
+
+msgid "top"
+msgstr "cima"
+
+msgid "width"
+msgstr "largura"

@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 20:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " "
+msgstr ""
+
+msgid "AP Device"
+msgstr ""
+
+msgid "AP Mode"
+msgstr ""
+
+msgid "Atheros"
+msgstr ""
+
+msgid "Beacon (15~65535)"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Channel (1~13)"
+msgstr ""
+
+msgid "Configuration your AP is finished"
+msgstr ""
+
+msgid "Current settings (interface : br0)"
+msgstr ""
+
+msgid "Enable 128 bit (Input 26 hex keys)"
+msgstr ""
+
+msgid "Enable 64 bit (Input 10 hex keys)"
+msgstr ""
+
+msgid "Encrypt"
+msgstr ""
+
+msgid "FRAGM Threshold (256~2346)"
+msgstr ""
+
+msgid "Gateway"
+msgstr ""
+
+msgid "Group Rekey Interval"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "Ignore Broadcast SSID"
+msgstr ""
+
+msgid "Invalid Fragm Threshold\n"
+msgstr ""
+
+msgid "Invalid RTS Threshold\n"
+msgstr ""
+
+msgid "Invalid SSID\n"
+msgstr ""
+
+msgid ""
+"Invalid WEP key\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Invalid WPA key\n"
+"\n"
+msgstr ""
+
+msgid "Invalid beacon\n"
+msgstr ""
+
+msgid "Invalid channel\n"
+msgstr ""
+
+msgid "Invalid wpagrouprekey\n"
+msgstr ""
+
+msgid "KEY (8~63 Characters)"
+msgstr ""
+
+msgid "KeyType"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+msgid "N/A"
+msgstr ""
+
+msgid "Nameserver"
+msgstr ""
+
+msgid "NetMask"
+msgstr ""
+
+msgid "Netmask"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Please wait for AP Configuration....\n"
+msgstr ""
+
+msgid "Preamble"
+msgstr ""
+
+msgid "RTS Threshold (0~2347)"
+msgstr ""
+
+msgid "Ralink"
+msgstr ""
+
+msgid "Realtek"
+msgstr ""
+
+msgid "SSID (1~32 Characters)"
+msgstr ""
+
+msgid "Setup Mode"
+msgstr ""
+
+msgid "Unknown network adapter"
+msgstr ""
+
+msgid "Use AP Mode"
+msgstr ""
+
+msgid "Use DHCP"
+msgstr ""
+
+msgid "Using a Wireless module as access point."
+msgstr ""
+
+msgid "WEP"
+msgstr ""
+
+msgid "WEP Key (HEX)"
+msgstr ""
+
+msgid "WLAN adapter"
+msgstr ""
+
+msgid "WLAN adapter."
+msgstr ""
+
+msgid "WPA"
+msgstr ""
+
+msgid "WPA/WPA2"
+msgstr ""
+
+msgid "WPA2"
+msgstr ""
+
+msgid "Wireless Access Point"
+msgstr ""
+
+msgid "Zydas"
+msgstr ""
+
+msgid "disabled"
+msgstr ""
+
+msgid "enabled"
+msgstr ""
+
+msgid "not set"
+msgstr ""

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BTDevicesManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2016-05-07 13:09+0200\n"
+"Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
+"Language-Team: openspa <openspa.info>\n"
+"Language: ca_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+
+msgid "(Re)Scan"
+msgstr "(Re)escanejar"
+
+msgid "Autostart"
+msgstr "Autoinici"
+
+msgid "Bluetooth Devices Manager"
+msgstr "Gestor de dispositius Bluetooth"
+
+msgid "Bluetooth Devices Manager Setup"
+msgstr "Configuració del gestor de disp. Bluetooth"
+
+msgid "Can't not pair with selected device!"
+msgstr "No es pot vincular amb aquest dispositiu!"
+
+msgid "Config"
+msgstr "onfiguració"
+
+msgid "Connect"
+msgstr "Connectar"
+
+msgid "Connection with:\n"
+msgstr "Connectat amb:\n"
+
+msgid "Disconnect"
+msgstr "Desconnectar"
+
+msgid "Exit"
+msgstr "Sortir"
+
+msgid "MAC:\t\tDevice name:"
+msgstr "MAC:\t\tNom:"
+
+msgid "No BT devices found!"
+msgstr "No s'ha trobat cap dispositiu Bluetooth"
+
+msgid "No connected to any device"
+msgstr "No s'ha connectat a cap dispositiu"
+
+msgid "Not detected devices around STB"
+msgstr "No s'ha detectat cap dispositiu aprop"
+
+msgid "Please load BT driver by pressing BLUE button."
+msgstr "Carregueu el driver BT mitjançant el botó BLAU."
+
+msgid "Save"
+msgstr "Desar"
+
+msgid "Scanning for devices..."
+msgstr "Cercant dispositius..."
+
+msgid "Scanning..."
+msgstr "Cercant..."
+
+msgid "This is bt devices manager"
+msgstr "Gestió dels dispositius Bluetooth"
+
+msgid "Trying to pair with:"
+msgstr "Intentant vincular amb:"
+
+msgid "entry"
+msgstr " "

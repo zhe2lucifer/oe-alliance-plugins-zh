@@ -1,0 +1,79 @@
+# Nederlands translations for Enigma2.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ViX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2018-07-31 10:42+0200\n"
+"Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
+"Language-Team: Andy Blackburn, Rob van der Does\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "Always off"
+msgstr "Altijd uit"
+
+msgid "Brightness Level 1"
+msgstr "Helderheidsniveau 1"
+
+msgid "Brightness Level 2"
+msgstr "Helderheidsniveau 2"
+
+msgid "Brightness level"
+msgstr "Helderheidsniveau"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Channelnumber in Standby Clock"
+msgstr "Zendernummer in stand-by klok"
+
+msgid "Channelnumber in Standby off"
+msgstr "Zendernummer in stand-by uit"
+
+msgid "Channelnumber/Clock in Standby Clock"
+msgstr "Zendernummer/Klok in stand-by klok"
+
+msgid "Clock always"
+msgstr "Klok altijd"
+
+msgid "LED Display Setup"
+msgstr "LED-scherm instellen"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "On/Off"
+msgstr "Aan/Uit"
+
+msgid "Save"
+msgstr "Sla op"
+
+msgid "Show REC-Symbol in Display"
+msgstr "Toon REC-symbool in het LCD-scherm"
+
+msgid "Show blinking Clock on Display during recording"
+msgstr "Toon knipperende klok in het LCD-scherm tijdens opnemen"
+
+msgid "Show on LED"
+msgstr "Toon op LED"
+
+msgid "Time mode"
+msgstr "Tijdmodus"
+
+msgid "Update Date/Time"
+msgstr "Update datum/tijd"
+
+msgid "no"
+msgstr "nee"
+
+msgid "yes"
+msgstr "ja"

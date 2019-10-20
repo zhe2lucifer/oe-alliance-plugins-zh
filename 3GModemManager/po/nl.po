@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 3GModemManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
+"Language-Team: openATV\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid " "
+msgstr " "
+
+msgid "3G / 4G Modem Manager"
+msgstr "3G / 4G Modem Manager"
+
+msgid "APN :"
+msgstr "APN:"
+
+msgid "Add"
+msgstr "Voeg toe"
+
+msgid "Auto connect"
+msgstr "Verbind automatisch"
+
+msgid "Auto connect:"
+msgstr "Verbind automatisch:"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Disable"
+msgstr "Schakel uit"
+
+msgid "Edit"
+msgstr "Wijzig"
+
+msgid "Enable"
+msgstr "Schakel in"
+
+msgid "Exit"
+msgstr "Sluit af"
+
+msgid "IP : "
+msgstr "IP:"
+
+msgid "IP : 0.0.0.0"
+msgstr "IP : 0.0.0.0"
+
+msgid "Manual"
+msgstr "Handmatig"
+
+msgid "Name :"
+msgstr "Naam :"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "PIN :"
+msgstr "PIN :"
+
+msgid "Password :"
+msgstr "Wachtwoord:"
+
+msgid "Phone :"
+msgstr "Telefoonnummer :"
+
+msgid "Region :"
+msgstr "Regio:"
+
+msgid "Save"
+msgstr "Sla op"
+
+msgid "User :"
+msgstr "Gebruiker:"

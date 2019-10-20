@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2016-05-07 14:14+0200\n"
+"Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
+"Language-Team: openspa.info\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+
+msgid "Always off"
+msgstr "Siempre apagado"
+
+msgid "Brightness Level 1"
+msgstr "Nivel de brillo 1"
+
+msgid "Brightness Level 2"
+msgstr "Nivel de brillo 2"
+
+msgid "Brightness level"
+msgstr "Nivel de brillo"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Channelnumber in Standby Clock"
+msgstr "Nº de canal, reloj en reposo"
+
+msgid "Channelnumber in Standby off"
+msgstr "Nº de canal, apagado en reposo"
+
+msgid "Channelnumber/Clock in Standby Clock"
+msgstr "Nº canal/reloj, reloj en reposo"
+
+msgid "Clock always"
+msgstr "Siempre el reloj"
+
+msgid "LED Display Setup"
+msgstr "LED/Display VFD"
+
+msgid "Off"
+msgstr "Deshabilitado"
+
+msgid "On/Off"
+msgstr "Enc./apagado"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Show REC-Symbol in Display"
+msgstr "Mostrar 'REC' en el display"
+
+msgid "Show blinking Clock on Display during recording"
+msgstr "Reloj parpadea en el display durante la grabación"
+
+msgid "Show on LED"
+msgstr "Texto en el VFD"
+
+msgid "Time mode"
+msgstr "12/24 h."
+
+msgid "Update Date/Time"
+msgstr "Actualizar fecha/hora"
+
+msgid "no"
+msgstr "no"
+
+msgid "yes"
+msgstr "si"

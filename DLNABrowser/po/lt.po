@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DLNABrowser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: openATV\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid " "
+msgstr " "
+
+msgid "/"
+msgstr "/"
+
+msgid "10"
+msgstr "10"
+
+msgid "15"
+msgstr "15"
+
+msgid "20"
+msgstr "20"
+
+msgid "5"
+msgstr "5"
+
+msgid "Add all"
+msgstr "Įkelti viską"
+
+msgid "DLNA/uPnP Browser"
+msgstr "DLNA/uPnP naršyklė"
+
+msgid "DeviceList Refresh Interval"
+msgstr "Įrenginių sąrašo atnaujinimo intervalas"
+
+msgid "Enable Autostart for DLNA Browser"
+msgstr "Įjungti DLNA naršyklės autopaleidimą"
+
+msgid "Exit"
+msgstr "Užverti"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Please wait, Loading image."
+msgstr "Palaukite, diegiamas atvaizdas."
+
+msgid "Reload Device"
+msgstr "Paleisti iš naujo"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Setting"
+msgstr "Nustatymas"
+
+msgid "Show Device"
+msgstr "Rodyti įrenginį"
+
+msgid "Slideshow Interval"
+msgstr "Intervalas tarp skaidrių"
+
+msgid "Start"
+msgstr "Pradėti"
+
+msgid "Stop playing this movie?"
+msgstr "Nutraukti šį filmą ?"
+
+msgid "This is dlna/upnp client using djmount."
+msgstr "tai DLNA/UPnP klientas, naudojantis Djmount."
+
+msgid "Top"
+msgstr "Viršus"
+
+msgid "Up"
+msgstr "Aukštyn"
+
+msgid "Yes"
+msgstr "Taip"

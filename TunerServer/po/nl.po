@@ -1,0 +1,77 @@
+# Dutch translations for enigma2-oe-alliance-plugins package.
+# Copyright (C) 2012 THE enigma2-oe-alliance-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-oe-alliance-plugins package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"PO-Revision-Date: 2018-07-31 10:40+0200\n"
+"Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
+"Language-Team: none\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "Allow Streaming From Box Tuners"
+msgstr "Sta streamen vanaf de tuners van de box toe"
+
+msgid "Build Complete!"
+msgstr "Bouwen gereed!"
+
+msgid "Build Server"
+msgstr "Bouwserver"
+
+msgid "Close"
+msgstr "Sluit"
+
+msgid "Current Status:"
+msgstr "Huidiges status:"
+
+msgid "Disable Server"
+msgstr "Schakel server uit"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Server Disabled"
+msgstr "Server uitgeschakeld"
+
+msgid "Server Enabled"
+msgstr "Server ingeschakeld"
+
+msgid "Server now disabled!"
+msgstr "Server is nu uitgeschakeld!"
+
+msgid "Sorry, but you need to have a device mounted at '/media/hd'"
+msgstr "Sorry, maar u moet een device gemount hebben op '/media/hd'"
+
+msgid "Tuner Server"
+msgstr "Tunerserver"
+
+msgid "Tuner Server Disabled."
+msgstr "Tunerserver uitgeschakeld."
+
+msgid "Tuner Server setup"
+msgstr "Tunerserver instellingen"
+
+msgid ""
+"Your server is now being deleted\n"
+"Please Wait ..."
+msgstr ""
+"Uw server wordt nu verwijderd\n"
+"Even wachten ..."
+
+msgid ""
+"Your server is now building\n"
+"Please wait ..."
+msgstr ""
+"Uw server wordt nu gebouwd\n"
+"Even wachten ..."
